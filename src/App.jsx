@@ -16,10 +16,10 @@ const posts = [
     },
     content: [
       { type: 'paragraph', content: 'Fala galeraa 👋', },
-      { type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀' },
-      { type: 'link', content: 'jane.design/doctorcare' },
+      { type: 'paragraph', content: 'Fiz aqui um blog com algumas funções, é possível criar e apagar um comentário e também é possível aplaudir um comentário 🚀' },
+      { type: 'link', content: 'olhaomarviagens.vercel.app' },
     ],
-    publishedAt: new Date('2022-08-03 20:00:00'),
+    publishedAt: new Date('2022-11-23 20:00:00'),
   },
   {
     id: 2,
@@ -30,7 +30,7 @@ const posts = [
     },
     content: [
       { type: 'paragraph', content: 'Fala galeraa 👋', },
-      { type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀' },
+      { type: 'paragraph', content: 'O botão publicar aparece ao clicar na caixa de texto, ao clicar fora da caixa de texto o botão some. O botão é habilitado ao digitar no mínimo um caracter.  🚀' },
       { type: 'link', content: 'jane.design/doctorcare' },
     ],
     publishedAt: new Date('2022-08-10 20:00:00'),
