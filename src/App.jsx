@@ -31,7 +31,7 @@ const posts = [
     content: [
       { type: 'paragraph', content: 'Fala galeraa 👋', },
       { type: 'paragraph', content: 'O botão publicar aparece ao clicar na caixa de texto, ao clicar fora da caixa de texto o botão some. O botão é habilitado ao digitar no mínimo um caracter.  🚀' },
-      { type: 'link', content: 'jane.design/doctorcare' },
+      { type: 'link', content: 'olhaomarviagens.vercel.app' },
     ],
     publishedAt: new Date('2022-08-10 20:00:00'),
   },
